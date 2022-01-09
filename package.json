@@ -1,0 +1,24 @@
+{
+  "name": "ocean",
+  "version": "1.0.0",
+  "description": "THis is a starter standard wordpress theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/38hossainafzal/mytheme.git"
+  },
+  "keywords": [
+    "Wprdpress",
+    "starter",
+    "theme"
+  ],
+  "author": "Md. Afzal Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/38hossainafzal/mytheme/issues"
+  },
+  "homepage": "https://github.com/38hossainafzal/mytheme#readme"
+}
